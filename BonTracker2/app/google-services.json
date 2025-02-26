@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428697964569",
+    "project_id": "bontrack-82186",
+    "storage_bucket": "bontrack-82186.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428697964569:android:59defea2ce8144c1e69a88",
+        "android_client_info": {
+          "package_name": "com.example.bontracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1c10-2Z_IuJNwny_U1GAD3bzLFI94fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
