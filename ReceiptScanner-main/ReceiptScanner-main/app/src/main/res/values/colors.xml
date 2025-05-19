@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Portocaliu cald -->
+    <color name="orange_light">#FFE0B2</color>     <!-- Light orange -->
+    <color name="orange_main">#FF9800</color>      <!-- Main orange -->
+    <color name="orange_dark">#F57C00</color>      <!-- Dark orange -->
+
+    <!-- Galben solar -->
+    <color name="yellow_light">#FFF59D</color>     <!-- Light yellow -->
+    <color name="yellow_main">#FFEB3B</color>      <!-- Main yellow -->
+    <color name="yellow_dark">#FBC02D</color>      <!-- Dark yellow -->
+
+    <!-- Griuri neutre pentru echilibru -->
+    <color name="gray">#757575</color>
+    <color name="dark_gray">#424242</color>
+
+    <!-- Standard -->
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="json_highlight">#FFB300</color> <!-- galben intens / evidențiere -->
+    <color name="green_light">#AED581</color>    <!-- verde deschis -->
+
+    <!-- Aliasuri pentru temă -->
+    <color name="colorPrimary">@color/orange_main</color>
+    <color name="colorPrimaryVariant">@color/orange_dark</color>
+    <color name="colorSecondary">@color/yellow_main</color>
+    <color name="colorSecondaryVariant">@color/yellow_dark</color>
+    <color name="purple_200">#FFE0B2</color>     <!-- sau alt portocaliu deschis -->
+    <color name="purple_500">#FF9800</color>     <!-- orange -->
+    <color name="purple_700">#F57C00</color>     <!-- orange închis -->
+
+    <color name="teal_200">#FFF59D</color>       <!-- galben pal -->
+    <color name="teal_700">#FBC02D</color>       <!-- galben închis -->
+
+</resources>
